@@ -19,7 +19,7 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Anuchamath Sathsar👌😇']
+global.owner = ['Anuchamath Sathsar']
 global.premium = ['+94762352974']
 global.ownernomer = '+94762352974'
 global.ownername = '🐦Anuchamath sathsar'
